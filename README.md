@@ -21,6 +21,8 @@ docker exec -it qinglong /bin/bash
 
 ```
 rm -f install.sh* && wget -q https://git.metauniverse-cn.com/https://raw.githubusercontent.com/curtinlv/gd/main/install.sh && bash install.sh
+## 修改自用
+rm -f install.sh* && wget -q https://git.metauniverse-cn.com/https://raw.githubusercontent.com/373385177/gd/main/install.sh && bash install.sh
 ```
 
 
